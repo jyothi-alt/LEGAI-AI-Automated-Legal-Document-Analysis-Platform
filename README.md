@@ -41,9 +41,4 @@ This platform offers essential features such as document analysis, paraphrasing,
 3. **Docker** (optional, for containerized setup)
    - [Install Docker](https://www.docker.com/get-started)
 
-### Local Setup
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/Legal-AI-Project.git
-   cd Legal-AI-Project
